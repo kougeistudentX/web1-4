@@ -1,4 +1,9 @@
 @charset "UTF-8"; 
+
+body{
+    background-color: #000000; /* たぶん黒に背景を変更*/
+}
+
 h1{
     font-size: 1.75em;
 }
