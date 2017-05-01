@@ -10,8 +10,8 @@ greeting{color:#32cd32;
 }
 
 body{
-    background-color: #000000; /* たぶん黒に背景を変更*/
+    background-color: #0000ff; /* たぶん黒に背景を変更*/
     background-image: url(ハシビロコウ.jpg); /*きっとハシビロコウになる*/
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
 }
 
