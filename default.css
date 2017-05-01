@@ -1,17 +1,17 @@
-h1 span{color:#bb5535+
+h1 span{color:#bb5535;
 font-size:3.0em;
 font=weight: bold;
-    border:#323232 1px dotted;
+    border:#32cd32 1px dotted;
 }
-#has{color:#5f9ea0;
+#has{color:#0000ff;
 }
 
-greeting{color:#32cc32;
+greeting{color:#32cd32;
 }
 
 body{
     background-color: #000000; /* たぶん黒に背景を変更*/
-    background-image: url(../img/ハシビロコウ.jpg); /*きっとハシビロコウになる*/
+    background-image: url(ハシビロコウ.jpg); /*きっとハシビロコウになる*/
     background-repeat: no-repeat;
 }
 
