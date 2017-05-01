@@ -17,6 +17,15 @@ h1{
 h1 span{
     color: #bb5535;
 }
+/*型*/
+
+#lead{
+    border-top: #222222 1px dotted;
+….
+    text-align: center;
+}
+/*id*/
+
 
 h2{
     font-size: 1.25em;
