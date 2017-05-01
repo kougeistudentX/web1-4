@@ -13,6 +13,11 @@
 h1{
     font-size: 1.75em;
 }
+
+h1 span{
+    color: #bb5535;
+}
+
 h2{
     font-size: 1.25em;
 }
