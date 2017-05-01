@@ -1,46 +1,17 @@
-@charset "UTF-8"; 
+h1 span{color:#bb5535+
+font-size:3.0em;
+font=weight: bold;
+    border:#323232 1px dotted;
+}
+#has{color:#5f9ea0;
+}
 
-.has{
-    font-size: 70%;
-    padding: 20px 0px;
-    padding-right: 30px;
+greeting{color:#32cc32;
+}
+
+body{
     background-color: #000000; /* たぶん黒に背景を変更*/
     background-image: url(../img/ハシビロコウ.jpg); /*きっとハシビロコウになる*/
     background-repeat: no-repeat;
-    background-position: right center;
 }
 
-h1{
-    font-size: 1.75em;
-}
-
-h1 span{
-    color: #bb5535;
-}
-/*型*/
-
-#has{
-    border-top: #222222 5px dotted;
-….
-    text-align: center;
-}
-/*id*/
-
-
-h2{
-    font-size: 1.25em;
-}
-p{
-    font-size: 0.8em;
-}
-li{
-    font-size: 0.8em;
-    
-    
-<body>
-     background-color: #000000; /* たぶん黒に背景を変更*/
-    background-image: url(../img/ハシビロコウ.jpg); /*きっとハシビロコウになる*/
-    background-repeat: no-repeat;
- 
- <p><span class="has male"><a href="https://github.com/kougeistudentX/web1-4/blob/master/ハシビロコウ.jpg">ハシビロコウ.jpg</a></span></p>
-  
