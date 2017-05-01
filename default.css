@@ -1,4 +1,4 @@
-h1 span{color:#bb5535;
+h1 span{color:#696969;
 font-size:2.0em;
 font=weight: bold;
     border:#32cd32 1px dotted;
@@ -6,7 +6,7 @@ font=weight: bold;
 #lead{color:#0000ff;
 }
 
-greeting{color:#32cd32;
+.greeting{color:#32cd32;
 }
 
 body{
