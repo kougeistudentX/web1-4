@@ -1,7 +1,13 @@
 @charset "UTF-8"; 
 
 body{
+    font-size: 70%;
+    padding: 20px 0px;
+    padding-right: 30px;
     background-color: #000000; /* たぶん黒に背景を変更*/
+    background-image: url(../img/ハシビロコウ.jpg); /*きっとハシビロコウになる*/
+    background-repeat: no-repeat;
+    background-position: right center;
 }
 
 h1{
